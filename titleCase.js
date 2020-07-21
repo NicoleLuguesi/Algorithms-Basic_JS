@@ -9,4 +9,4 @@ function titleCase(str) {
   }
   return newSentence.join(" ");
 }
-titleCase("I'm a little tea pot");
+console.log(titleCase("I'm a little tea pot"));
